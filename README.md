@@ -20,11 +20,11 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,php,nodejs,nestjs,git,vscode&theme=dark" />
 </p>
 
-### 📊 Estatísticas
-
+<!---
 <p align="center">
   <a href="https://github.com/jeanluca554">
     <img height="170" src="https://SEU-PROJETO.vercel.app/api?username=jeanluca554&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true" />
     <img height="170" src="https://SEU-PROJETO.vercel.app/api/top-langs/?username=jeanluca554&layout=compact&langs_count=7&theme=gotham&hide_border=true" />
   </a>
-</p>
+</p> 
+-->
