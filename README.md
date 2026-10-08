@@ -17,7 +17,7 @@
 ### 🛠️ Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,php,nodejs,nestjs,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nodejs,nestjs,git,vscode&theme=dark" />
 </p>
 
 <!---
