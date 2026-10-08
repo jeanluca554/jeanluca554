@@ -11,8 +11,8 @@
 - 💻 Desenvolvedor Frontend focado em **React** e **TypeScript**
 - 🧩 Trabalho com aplicações web como painéis de doação e sistemas de gestão de eventos
 - 🔀 Uso no dia a dia **React Router v7**, **Zod** para validação e integração com APIs em **NestJS**
-<!--- 🌱 Atualmente aprendendo: _coloque aqui_ -->
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/jeanluca554)
+<!--- 🌱 Atualmente aprendendo: _coloque aqui_ -->
 
 ### 🛠️ Tecnologias
 
